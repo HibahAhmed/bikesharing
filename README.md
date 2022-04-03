@@ -10,6 +10,10 @@
 ## Result
 
 Some conclusions that were made included:
+- Most people tend to bike about 10-20 minutes.
+- The males made up most of the bikers.
+- There seemed to be more bikers during early morning as well as the evening time.
+- The starting as well as the ending locations of the bikers are fairly close to one another. 
 
 ## Summary
 
