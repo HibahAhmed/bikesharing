@@ -9,7 +9,7 @@
 
 ## Result
 
-The data story can be found here. [link](https://public.tableau.com/app/profile/hibah.ahmed/viz/TableauModule_16486020197060/NYCCitibikeChallenge?publish=yes)
+The data story can be found [here.](https://public.tableau.com/app/profile/hibah.ahmed/viz/TableauModule_16486020197060/NYCCitibikeChallenge?publish=yes)
 
 Some conclusions that were made from each sheet included:
 - Most people tend to bike about 10-20 minutes.
