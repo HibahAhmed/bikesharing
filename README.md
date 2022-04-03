@@ -9,6 +9,8 @@
 
 ## Result
 
+Some conclusions that were made included:
+
 ## Summary
 
 https://public.tableau.com/app/profile/hibah.ahmed/viz/TableauModule_16486020197060/NYCCitibikeChallenge?publish=yes
